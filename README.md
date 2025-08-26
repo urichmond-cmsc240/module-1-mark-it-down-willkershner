@@ -13,6 +13,8 @@ Add your profile details here
 
 *Business Administration with a concentration in Finance*
 
+![A pciture of me](1.jpg)
+
 ### Hobbies
 - Running
 - Hiking
